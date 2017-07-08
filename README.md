@@ -1,7 +1,7 @@
 Addressbook Tutorial
 ====================
 
-This change done by Sreedhar and its pulled by Jenkins for testing Build PipeLine
+This change done by Sreedhar Surya and its pulled by Jenkins for testing Build PipeLine
 
 This tutorial teaches you some of the basic concepts in [Vaadin Framework](https://vaadin.com). It is meant to be
 a fast read for learning how to get started - not an example on how application should be
